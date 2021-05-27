@@ -14,5 +14,11 @@ footer {
 }
 
 img {
-  width: 500px;
+  width: 400px;
+}
+
+h3 {
+  color: #e4a4ee;
+  background-color: black;
+  padding: 20px;
 }
